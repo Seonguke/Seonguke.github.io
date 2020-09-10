@@ -1,0 +1,18 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "ML"
+    url: "/categories/"
+  - title: "Algo"
+    url: /tags/
+  - title: "Year"
+    url: /posts/
+#  - title: "pets"
+#    url: /pets/
+ # - title: "note"
+ #   url: /note/
+  #- title: "Publications"
+  #  url: "/publications/"
